@@ -9,8 +9,6 @@ so this is our TODO_Manager (which can be used for monthy or annual task setting
 
 ->we can further add functionality of budget planning etc with it also can add it with some chrome extensions for eg- for setting reminders!! :thinking:
 
-We have not yet deployed it but prepared both front-end and back-end! (running out of time but are working on the same and will be back with the same soon!)
-
 for running the system in your local environment follow the instructions:-
 1) clone the repository in your local environment.
 2) start command-line interface.
@@ -32,10 +30,7 @@ Next is explanation of files stack:-
 ->other supporting files for deployment.
 
 
-We have not yet deployed our web-app..will do it soon(within a span of 5-6 days)!! :upside_down_face:
-
-
-Link to our Event_registration system :- (not too great but working really well)
-https://github.com/hi-18-K/Event_registration     
+Deployed at:-
+my-todo-manager.herokuapp.com
 
 :smiley:
