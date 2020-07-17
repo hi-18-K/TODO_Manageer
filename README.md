@@ -31,6 +31,6 @@ Next is explanation of files stack:-
 
 
 Deployed at:-
-my-todo-manager.herokuapp.com
+https://my-todo-manager.herokuapp.com/
 
 :smiley:
