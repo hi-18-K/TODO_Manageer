@@ -30,7 +30,12 @@ Next is explanation of files stack:-
 ->other supporting files for deployment.
 
 
-Deployed at:-
-https://my-todo-manager.herokuapp.com/
+### Deployed at:-
+### https://my-todo-manager.herokuapp.com/
+
+### Test User: 
+- username:  user  
+- pass: ‘test&990’
+
 
 :smiley:
