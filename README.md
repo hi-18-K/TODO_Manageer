@@ -35,7 +35,7 @@ Next is explanation of files stack:-
 
 ### Test User: 
 - username:  user  
-- pass: ‘test&990’
+- pass: test&990
 
 
 :smiley:
