@@ -11,4 +11,8 @@
 ## Reporting a Vulnerability
 
 If you are trying to fork/clone this repo and having issue while running it. 
-Report: [gmail](khushiagarwal846@gmail.com)
+Report: 
+
+  - [LinkedIn](https://www.linkedin.com/in/khushiagarwal/)
+  - [FaceBook](https://www.facebook.com/profile.php?id=100055184105814)
+  - or simply raise a issue here
